@@ -6,7 +6,7 @@ This repository contains the research and simulation code for the project **"Mov
 
 The research examines how different movement strategies, including Gaussian, Exponential, and Lévy flight distributions, influence predator-prey interactions in spatially extended systems. Our approach integrates both analytical and simulation-based methods to reveal complex behaviors that differ significantly between these two perspectives.
 
-### Key Contributions
+## Key Contributions
 
 - **Extension Beyond Previous Work:** While Giometto et al. laid the groundwork, our study delves deeper into how different displacement distributions impact the predator's abundance and the overall stability of the ecosystem.
   
@@ -22,3 +22,7 @@ The research examines how different movement strategies, including Gaussian, Exp
 The study provides insights into the critical factors that influence predator-prey dynamics in spatially explicit models. The significant difference between analytical and simulation outcomes highlights the importance of considering both perspectives when studying ecological systems.
 
 Moreover, the observed coherence in optimal average jump lengths across different distributions suggests a universal principle governing movement strategies in spatial predator-prey interactions.
+
+## Group members
+- [Stefano Campagnola](https://github.com/Stefanocampa19)
+- [Filippo Festa](https://github.com/Filippo-Festa)
