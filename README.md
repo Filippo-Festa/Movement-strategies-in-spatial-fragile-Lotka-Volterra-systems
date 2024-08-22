@@ -8,7 +8,7 @@ The research examines how different movement strategies, including Gaussian, Exp
 
 ## Key Contributions
 
-- **Extension Beyond Previous Work:** While Giometto et al. laid the groundwork, our study delves deeper into how different displacement distributions impact the predator's abundance and the overall stability of the ecosystem.
+- **Extension Beyond Previous Work:** While Dannemann et al. laid the groundwork, our study delves deeper into how different displacement distributions impact the predator's abundance and the overall stability of the ecosystem.
   
 - **Analytical vs. Simulation Discrepancies:** We observed that the analytical models and simulation results show fundamentally different behaviors. This divergence could be attributed to:
   - The presence of stochastic noise in simulations, which favors local extinction events.
