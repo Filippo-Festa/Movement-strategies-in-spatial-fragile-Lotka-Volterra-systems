@@ -1,6 +1,6 @@
 # Movement Strategies in Spatial Fragile Lotka-Volterra Systems
 
-This repository contains the research and simulation code for the project **"Movement Strategies in Spatial Fragile Lotka-Volterra Systems"**. This study builds upon the foundational work by [Giometto et al.](https://www.pnas.org/doi/abs/10.1073/pnas.1719889115) to explore predator-prey dynamics through various movement strategies, focusing on the spatial Lotka-Volterra model.
+This repository contains the research and simulation code for the project **"Movement Strategies in Spatial Fragile Lotka-Volterra Systems"**. This study builds upon the foundational work by [Dannemann et al.](https://www.pnas.org/doi/abs/10.1073/pnas.1719889115) to explore predator-prey dynamics through various movement strategies, focusing on the spatial Lotka-Volterra model.
 
 ## Overview
 
